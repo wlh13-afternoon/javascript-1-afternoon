@@ -24,7 +24,7 @@ var lovesCode = true
 //Create a variable called greatestFear that is undefined because we fear nothing
 
 //Code here
-var greatestFear = undefined
+
 //////////////////PROBLEM 5////////////////////
 
 //Create a variable called devMountainGoal that is null because we are just starting out
